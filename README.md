@@ -18,20 +18,48 @@ conda activate WSG-UIE
 
 ## Dataset Preparation
 
-### 1. Download Dataset
+Please download the datasets from the following links and place them in the `datasets/` directory.
 
-Download the dataset and place it in the `datasets/` directory.
+- UIEB: [Google Drive](YOUR_LINK)
+- LSUI: [Google Drive](YOUR_LINK)
+- UFO: [Google Drive](YOUR_LINK)
+- EUVP: [Google Drive](YOUR_LINK)
 
 Example:
 
 ```text
 datasets/
-├── Train/
-│   ├── input/
-│   └── target/
-├── Val/
-│   ├── input/
-│   └── target/
-└── Test/
-    ├── input/
-    └── target/
+├── UIEB/
+│   ├── train/
+│   │   ├── low/
+│   │   └── high/
+│   └── test/
+│       ├── low/
+│       └── high/
+├── LSUI/
+│   ├── train/
+│   │   ├── low/
+│   │   └── high/
+│   └── test/
+│       ├── low/
+│       └── high/
+├── UFO/
+│   ├── train/
+│   │   ├── low/
+│   │   └── high/
+│   └── test/
+│       ├── low/
+│       └── high/
+├── EUVP/
+│   ├── train/
+│   │   ├── low/
+│   │   └── high/
+│   └── test/
+│       ├── low/
+│       └── high/
+├── C60/
+├── U45/
+├── RUIE/
+└── Color-Check7/
+
+
