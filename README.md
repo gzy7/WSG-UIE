@@ -81,13 +81,13 @@ python train.py
 ```
 
 ## Testing (paired datasets)
-When testing unpaired datasets, please select the second annotated code in the metrics.py to run.
+
 ```bash
 python test.py --ckpt "your checkpoint" --dataset 'your dataset' --test_batch_size 'your size'
 ```
 
 ## Testing (unpaired datasets)
-
+When testing unpaired datasets, please select the second annotated code in the metrics.py to run.
 ```bash
 python test_unpaired.py --ckpt "your checkpoint" --dataset 'your dataset'
 ```
