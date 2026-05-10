@@ -1,3 +1,3 @@
-# WSG-UIE: Wavelet- and Structure-Guided Underwater Image Enhancement Network
+# Wavelet and Structure Guided Lightweight Network for Underwater Image Enhancement
 
 All code will be uploaded after the paper is accepted.
