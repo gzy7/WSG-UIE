@@ -32,7 +32,7 @@ Please download the datasets from the following links and place them in the `dat
 Example:
 
 ```text
-datasets/
+Paired Datasets/
 ├── UIEB/
 │   ├── train/
 │   │   ├── low/
@@ -54,16 +54,12 @@ datasets/
 │   └── test/
 │       ├── low/
 │       └── high/
-├── EUVP/
-│   ├── train/
-│   │   ├── low/
-│   │   └── high/
-│   └── test/
-│       ├── low/
-│       └── high/
-├── C60/
-├── U45/
-├── RUIE/
-└── Color-Check7/
+└── EUVP/
+    ├── train/
+    │   ├── low/
+    │   └── high/
+    └── test/
+        ├── low/
+        └── high/
 ```
 
