@@ -20,10 +20,15 @@ conda activate WSG-UIE
 
 Please download the datasets from the following links and place them in the `datasets/` directory.
 
+Paired Datasets:
+
 - UIEB: [Google Drive](https://drive.google.com/file/d/1TZge0v5OzWWC8ZTxG7-NE7nVl0a4IeLb/view?usp=drive_link)
 - LSUI: [Google Drive](https://drive.google.com/file/d/159oI-U4y1tB5XjohQF5Yh87Mivq7IXv0/view?usp=drive_link)
 - UFO: [Google Drive](https://drive.google.com/file/d/1Ij-fOthwBzxV9kScDSvmImeDcWQ7zJqE/view?usp=drive_link)
 - EUVP: [Google Drive](https://drive.google.com/file/d/1LaUCWq__csU7-u8zdd7gfmlpWGUmSZAD/view?usp=drive_link)
+
+Unpaired Datasets:
+
 - C60: [Google Drive](https://drive.google.com/file/d/1wencN8I9-VSDbZL0U5jgJyAIbUbtrgDX/view?usp=drive_link)
 - U45: [Google Drive](https://drive.google.com/file/d/1iigjP9nbQvE3JeVRsKBPgkda53mG6vtT/view?usp=drive_link)
 - RUIE: [Google Drive](https://drive.google.com/file/d/1U_RbNaaSjkrIxz-r-lvzKXUnMaLwgRTM/view?usp=drive_link)
