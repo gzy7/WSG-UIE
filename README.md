@@ -73,3 +73,21 @@ Unpaired Datasets:
 ## Results
 
 We provide all enhanced results [Google Drive](https://drive.google.com/file/d/1EqSA8Rgn1birkYwG25gPsi9MKBSHAZRN/view?usp=drive_link) for easy comparison and visualization.
+
+## Training
+
+```bash
+python train.py
+```
+
+## Testing (paired datasets)
+
+```bash
+python test.py --ckpt "your checkpoint" --dataset 'your dataset' --test_batch_size 'your size'
+```
+
+## Testing (unpaired datasets)
+
+```bash
+python test_unpaired.py --ckpt "your checkpoint" --dataset 'your dataset'
+```
