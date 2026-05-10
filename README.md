@@ -14,3 +14,24 @@ This paper is currently being submitted to The Visual Computer
 ```bash
 conda create -n WSG-UIE python=3.10 -y
 conda activate WSG-UIE
+```
+
+## Dataset Preparation
+
+### 1. Download Dataset
+
+Download the dataset and place it in the `datasets/` directory.
+
+Example:
+
+```text
+datasets/
+├── Train/
+│   ├── input/
+│   └── target/
+├── Val/
+│   ├── input/
+│   └── target/
+└── Test/
+    ├── input/
+    └── target/
