@@ -28,11 +28,10 @@ Please download the datasets from the following links and place them in the `dat
 - U45: [Google Drive](https://drive.google.com/file/d/1iigjP9nbQvE3JeVRsKBPgkda53mG6vtT/view?usp=drive_link)
 - RUIE: [Google Drive](https://drive.google.com/file/d/1U_RbNaaSjkrIxz-r-lvzKXUnMaLwgRTM/view?usp=drive_link)
 - Color-Check7: [Google Drive](https://drive.google.com/file/d/17BP9LbK6Qq24fsIgAsoZampzj0B80Rhu/view?usp=drive_link)
-- 
-Example:
+
+Paired Datasets:
 
 ```text
-Paired Datasets/
 ├── UIEB/
 │   ├── train/
 │   │   ├── low/
@@ -63,3 +62,11 @@ Paired Datasets/
         └── high/
 ```
 
+Unpaired Datasets:
+
+```text
+├── C60/
+├── U45/
+├── RUIE/
+└── Color-Check7/
+```
