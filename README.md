@@ -91,3 +91,8 @@ When testing unpaired datasets, please select the second annotated code in the m
 ```bash
 python test_unpaired.py --ckpt "your checkpoint" --dataset 'your dataset'
 ```
+
+## Acknowledgement
+
+This work is based on the implementation of WWE-UIE (https://github.com/chingheng0808/WWE-UIE).
+We gratefully acknowledge the authors for providing the codebase, which we use as the baseline for our experiments.
