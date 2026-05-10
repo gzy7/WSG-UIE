@@ -11,5 +11,6 @@ This paper is currently being submitted to The Visual Computer
 
 ## Create Environment
 
+```bash
 conda create -n WSG-UIE python=3.10 -y
 conda activate WSG-UIE
