@@ -92,11 +92,6 @@ When testing unpaired datasets, please select the second annotated code in the m
 python test_unpaired.py --ckpt "your checkpoint" --dataset 'your dataset'
 ```
 
-## Acknowledgement
-
-This work is based on the implementation of WWE-UIE (https://github.com/chingheng0808/WWE-UIE).
-We gratefully acknowledge the authors for providing the codebase, which we use as the baseline for our experiments.
-
 ## Citation
 Cite our work if WSG-UIE is useful to your research.
 
@@ -110,3 +105,11 @@ Cite our work if WSG-UIE is useful to your research.
   publisher={Springer}
 }
 ```
+
+## Acknowledgement
+
+This work is based on the implementation of WWE-UIE (https://github.com/chingheng0808/WWE-UIE).
+We gratefully acknowledge the authors for providing the codebase, which we use as the baseline for our experiments.
+
+## Contact
+If you have any questions, please contact the email 2020000011@mails.cust.edu.cn
