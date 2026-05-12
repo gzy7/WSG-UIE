@@ -24,6 +24,8 @@ Underwater image enhancement is critical for ocean exploration, underwater robot
 ```bash
 conda create -n WSG-UIE python=3.10 -y
 conda activate WSG-UIE
+pip install torch torchvision torchmetrics
+pip install -r requirements.txt
 ```
 
 ## Dataset Preparation
