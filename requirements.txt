@@ -1,0 +1,7 @@
+PyWavelets
+opencv-python
+scipy
+scikit-image
+einops
+huggingface_hub
+thop
