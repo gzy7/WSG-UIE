@@ -96,3 +96,15 @@ python test_unpaired.py --ckpt "your checkpoint" --dataset 'your dataset'
 
 This work is based on the implementation of WWE-UIE (https://github.com/chingheng0808/WWE-UIE).
 We gratefully acknowledge the authors for providing the codebase, which we use as the baseline for our experiments.
+
+## Citation
+Cite our work if WSG-UIE is useful to your research.
+
+@article{WSG-UIE,
+  title={Wavelet and Structure Guided Lightweight Network for Underwater Image Enhancement},
+  author={Guo, Zengyang and Cai, Zhidan and Yuan, Zhaozhu and Xia, Haoyao},
+  journal={The Visual Computer},
+  pages={xxx--xxx},
+  year={2026},
+  publisher={Springer}
+}
