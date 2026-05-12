@@ -2,6 +2,8 @@
 
 [![DOI](https://zenodo.org/badge/1211449073.svg)](https://doi.org/10.5281/zenodo.20142586)
 
+This repository contains the source code, pretrained weights, dataset links, testing result links, and detailed training/testing instructions for our The Visual Computer submission.
+
 ## Abstract
 
 Underwater image enhancement is critical for ocean exploration, underwater robotics, and marine vision systems. Wavelength-dependent absorption and scattering cause severe color casts, low contrast, and detail loss in underwater imaging. This work addresses degradation issues by developing a lightweight end-to-end framework unifying color prior correction, wavelet-domain modeling, and structure-guided modulation. The method uses adaptive color balance, multi-scale wavelet enhancement, and gradient-aware fusion to restore chromatic fidelity and fine details while suppressing noise. Here we show the approach achieves 24.14 dB PSNR and 0.917 SSIM on UIEB benchmark, outperforming competing methods with only 1.06M parameters. It also boosts performance in object detection and semantic segmentation, offering practical value for real-time underwater vision applications. Code is available at https://github.com/gzy7/WSG-UIE.
