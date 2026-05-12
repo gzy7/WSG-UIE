@@ -2,6 +2,8 @@
 
 This paper is currently being submitted to The Visual Computer
 
+![WSG-UIE](Figs/WSG.png)
+
 ## Environment
 
 - OS: Ubuntu 22.04
