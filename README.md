@@ -14,6 +14,7 @@ Underwater image enhancement is critical for ocean exploration, underwater robot
 
 ## Environment
 
+All of our experiments were conducted on RTX 3090.
 - OS: Ubuntu 22.04
 - Python: 3.10
 - CUDA: 11.8
