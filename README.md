@@ -100,6 +100,7 @@ We gratefully acknowledge the authors for providing the codebase, which we use a
 ## Citation
 Cite our work if WSG-UIE is useful to your research.
 
+```bash
 @article{WSG-UIE,
   title={Wavelet and Structure Guided Lightweight Network for Underwater Image Enhancement},
   author={Guo, Zengyang and Cai, Zhidan and Yuan, Zhaozhu and Xia, Haoyao},
@@ -108,3 +109,4 @@ Cite our work if WSG-UIE is useful to your research.
   year={2026},
   publisher={Springer}
 }
+```
