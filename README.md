@@ -123,20 +123,6 @@ When testing unpaired datasets, please select the second annotated code in the m
 python test_unpaired.py --ckpt "your checkpoint" --dataset 'your dataset'
 ```
 
-## Citation
-Cite our work if WSG-UIE is useful to your research.
-
-```bash
-@article{WSG-UIE,
-  title={Wavelet and Structure Guided Lightweight Network for Underwater Image Enhancement},
-  author={Guo, Zengyang and Cai, Zhidan and Yuan, Zhaozhu and Xia, Haoyao},
-  journal={The Visual Computer},
-  pages={xxx--xxx},
-  year={2026},
-  publisher={Springer}
-}
-```
-
 ## Acknowledgement
 
 This work is based on the implementation of WWE-UIE (https://github.com/chingheng0808/WWE-UIE).
