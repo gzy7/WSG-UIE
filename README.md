@@ -81,10 +81,6 @@ Unpaired Datasets:
 └── Color-Check7/
 ```
 
-## Results
-
-We provide all enhanced results [Google Drive](https://drive.google.com/file/d/1EqSA8Rgn1birkYwG25gPsi9MKBSHAZRN/view?usp=drive_link) for easy comparison and visualization.
-
 ## Visual Comparisons
 
 <p align="center">
